@@ -5,6 +5,9 @@ angular.module('angfullApp')
     $scope.menu = [{
       'title': 'Home',
       'link': '/'
+    },{
+      'title':'friend',
+      'link';'/friends'
     }];
 
     $scope.isCollapsed = true;
